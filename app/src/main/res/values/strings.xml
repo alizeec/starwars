@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">StarWarsPrive</string>
+
+    <string name="travel_list_title">Last trips</string>
+    <string name="error_list">Error while loading trips</string>
+    <string name="error_detail">Error while loading this trip</string>
+
+    <string name="details_departure_label">Departure</string>
+    <string name="details_arrival_label">Arrival</string>
+    <string name="details_distance_label">Trip distance</string>
+    <string name="details_duration_label">Trip duration</string>
+    <string name="details_rating_label">Pilot rating</string>
+    <string name="details_no_rating_label">User didn\'t rate yet</string>
+</resources>
